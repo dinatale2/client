@@ -2,4 +2,5 @@
 node_modules
 .settings/
 dist/app.js
+.vagrant/
 
